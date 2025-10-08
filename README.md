@@ -65,3 +65,7 @@ In order to improve usability and uniformity throughout the website, the footer 
 📩 Email: support@factorie.com  
 📍 Address: 101 Fashion Street, Johannesburg, South Africa  
 📞 Phone: +27 123 456 789  
+
+
+## REFERENCES
+HTML5 Specification W3C. HTML5: A vocabulary and associated APIs for HTML and XHTML. https://www.w3.org/TR/html52/ CSS3 Specification W3C. CSS Cascading Style Sheets, Level 3. https://www.w3.org/Style/CSS/ MDN Web Docs – HTML Reference Mozilla Developer Network. HTML: HyperText Markup Language. https://developer.mozilla.org/en-US/docs/Web/HTML MDN Web Docs – CSS Reference Mozilla Developer Network. CSS: Cascading Style Sheets. https://developer.mozilla.org/en-US/docs/Web/CSS MDN Web Docs – CSS Animations Mozilla Developer Network. Using CSS animations. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations MDN Web Docs – CSS Flexbox Mozilla Developer Network. Flexbox guide for responsive layouts. https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox MDN Web Docs – CSS Grid Mozilla Developer Network. Guide to CSS Grid Layout. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout Tutorials & Practical References CSS-Tricks – Animations & Effects A Complete Guide to CSS Animations. https://css-tricks.com/almanac/properties/a/animation/ W3Schools – HTML & CSS Reference HTML Elements, CSS Properties, and Responsive Design Basics. https://www.w3schools.com/ Google Developers – Web Fundamentals
